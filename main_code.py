@@ -1,3 +1,5 @@
+# AUTHOR - SHAURYA SINGH
+
 print("Welcome to the secret auction bidding!")
 bidders = {
 
